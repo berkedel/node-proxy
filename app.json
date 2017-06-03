@@ -1,0 +1,7 @@
+{
+  "name": "Node Proxy",
+  "description": "A simple proxy",
+  "repository": "https://github.com/berkedel/node-proxy",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "proxy"]
+}

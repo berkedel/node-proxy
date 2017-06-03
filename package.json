@@ -1,0 +1,26 @@
+{
+  "name": "node-proxy",
+  "version": "1.0.0",
+  "description": "A simple proxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akhmad Syaikhul Hadi",
+  "license": "MIT",
+  "dependencies": {
+    "proxy": "^0.2.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berkedel/node-proxy.git"
+  },
+  "keywords": [
+    "proxy"
+  ],
+  "bugs": {
+    "url": "https://github.com/berkedel/node-proxy/issues"
+  },
+  "homepage": "https://github.com/berkedel/node-proxy#readme"
+}
